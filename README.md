@@ -1,4 +1,4 @@
-# Electric_Vehicle_BusinessCase-
+# AtliQ Electric_Vehicle_BusinessCase-
 
 AtliQ Motors is an automotive giant from the USA specializing in electric vehicles 
 (EV). In the last 5 years, their market share rose to 25% in electric and hybrid 
